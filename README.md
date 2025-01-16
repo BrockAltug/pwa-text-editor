@@ -9,6 +9,8 @@
 ---
 
 [View Video Demo](https://drive.google.com/file/d/1UJt9FC_1FVIpmlnB3g5dTb5At97Fd7tQ/view?usp=sharing)
+or
+[Try The App](https://pwa-text-editor-ewu6.onrender.com)
 
 ---
 
